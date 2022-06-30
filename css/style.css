@@ -3199,7 +3199,7 @@ hr {
 }
 
 .button-white.button-ujarak::before {
-	background: #F5C563;
+	background: #936205;
 }
 
 .button-white.button-pipaluk, .button-white.button-pipaluk:focus {
@@ -3208,15 +3208,15 @@ hr {
 
 .button-white.button-pipaluk::before, .button-white.button-pipaluk:focus::before {
 	background: #ffffff;
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-white.button-pipaluk::after, .button-white.button-pipaluk:focus::after {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-white.button-pipaluk:hover, .button-white.button-pipaluk:active {
-	color: #F5C563;
+	color: #936205;
 	background: transparent;
 }
 
@@ -3230,11 +3230,11 @@ hr {
 }
 
 .button-white.button-wapasha::after, .button-white.button-wapasha:focus::after {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-white.button-wapasha:hover, .button-white.button-wapasha:active {
-	color: #F5C563;
+	color: #936205;
 	background: transparent;
 }
 
@@ -3402,12 +3402,12 @@ hr {
 
 .button-gray-8:hover, .button-gray-8:active {
 	color: #ffffff;
-	background-color: #F5C563;
-	border-color: #F5C563;
+	background-color: #936205;
+	border-color: #936205;
 }
 
 .button-gray-8.button-ujarak::before {
-	background: #F5C563;
+	background: #936205;
 }
 
 .button-gray-8.button-pipaluk, .button-gray-8.button-pipaluk:focus {
@@ -3416,7 +3416,7 @@ hr {
 
 .button-gray-8.button-pipaluk::before, .button-gray-8.button-pipaluk:focus::before {
 	background: #353535;
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-gray-8.button-pipaluk::after, .button-gray-8.button-pipaluk:focus::after {
@@ -3662,12 +3662,12 @@ hr {
 
 .button-default-outline:hover, .button-default-outline:active {
 	color: #ffffff;
-	background-color: #F5C563;
-	border-color: #F5C563;
+	background-color: #936205;
+	border-color: #936205;
 }
 
 .button-default-outline.button-ujarak::before {
-	background: #F5C563;
+	background: #936205;
 }
 
 .button-default-outline.button-pipaluk, .button-default-outline.button-pipaluk:focus {
@@ -3676,15 +3676,15 @@ hr {
 
 .button-default-outline.button-pipaluk::before, .button-default-outline.button-pipaluk:focus::before {
 	background: transparent;
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-default-outline.button-pipaluk::after, .button-default-outline.button-pipaluk:focus::after {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-default-outline.button-pipaluk:hover, .button-default-outline.button-pipaluk:active {
-	color: #F5C563;
+	color: #936205;
 	background: transparent;
 }
 
@@ -3698,11 +3698,11 @@ hr {
 }
 
 .button-default-outline.button-wapasha::after, .button-default-outline.button-wapasha:focus::after {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-default-outline.button-wapasha:hover, .button-default-outline.button-wapasha:active {
-	color: #F5C563;
+	color: #936205;
 	background: transparent;
 }
 
@@ -3714,12 +3714,12 @@ hr {
 
 .button-default-outline-2:hover, .button-default-outline-2:active {
 	color: #ffffff;
-	background-color: #F5C563;
-	border-color: #F5C563;
+	background-color: #936205;
+	border-color: #936205;
 }
 
 .button-default-outline-2.button-ujarak::before {
-	background: #F5C563;
+	background: #936205;
 }
 
 .button-default-outline-2.button-pipaluk, .button-default-outline-2.button-pipaluk:focus {
@@ -3728,11 +3728,11 @@ hr {
 
 .button-default-outline-2.button-pipaluk::before, .button-default-outline-2.button-pipaluk:focus::before {
 	background: transparent;
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-default-outline-2.button-pipaluk::after, .button-default-outline-2.button-pipaluk:focus::after {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-default-outline-2.button-pipaluk:hover, .button-default-outline-2.button-pipaluk:active {
@@ -3750,11 +3750,11 @@ hr {
 }
 
 .button-default-outline-2.button-wapasha::after, .button-default-outline-2.button-wapasha:focus::after {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .button-default-outline-2.button-wapasha:hover, .button-default-outline-2.button-wapasha:active {
-	color: #F5C563;
+	color: #936205;
 	background: transparent;
 }
 
@@ -3817,7 +3817,7 @@ hr {
 }
 
 .button-black-outline:hover, .button-black-outline:active {
-	color: #151515;
+	color: white;
 	background-color: #936205;
 	border-color: #936205;
 }
@@ -12474,11 +12474,11 @@ html [class*='section-'].section-top-0 {
 }
 
 .context-dark .button.button-ujarak:not([class*='button-secondary'])::before, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary'])::before, .bg-primary .button.button-ujarak:not([class*='button-secondary'])::before {
-	background: #F5C563;
+	background: #936205;
 }
 
 .context-dark .button.button-ujarak:not([class*='button-secondary']):hover, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary']):hover, .bg-primary .button.button-ujarak:not([class*='button-secondary']):hover, .context-dark .button.button-ujarak:not([class*='button-secondary']):active, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary']):active, .bg-primary .button.button-ujarak:not([class*='button-secondary']):active {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .context-dark .button-secondary.button-ujarak::before, .bg-gray-dark .button-secondary.button-ujarak::before, .bg-primary .button-secondary.button-ujarak::before {
@@ -12502,7 +12502,7 @@ html [class*='section-'].section-top-0 {
 }
 
 .footer-variant-2.context-dark .button.button-ujarak:hover, .footer-variant-2.bg-gray-dark .button.button-ujarak:hover, .footer-variant-2.bg-primary .button.button-ujarak:hover, .footer-variant-2.context-dark .button.button-ujarak:active, .footer-variant-2.bg-gray-dark .button.button-ujarak:active, .footer-variant-2.bg-primary .button.button-ujarak:active {
-	color: #F5C563;
+	color: #936205;
 	border-color: #ffffff;
 }
 
@@ -12610,11 +12610,11 @@ html [class*='section-'].section-top-0 {
 }
 
 .footer-corporate-2.context-dark .button-gray-31.button-ujarak::before, .footer-corporate-2.bg-gray-dark .button-gray-31.button-ujarak::before, .footer-corporate-2.bg-primary .button-gray-31.button-ujarak::before {
-	background: #F5C563;
+	background: #936205;
 }
 
 .footer-corporate-2.context-dark .button-gray-31.button-ujarak:hover, .footer-corporate-2.bg-gray-dark .button-gray-31.button-ujarak:hover, .footer-corporate-2.bg-primary .button-gray-31.button-ujarak:hover, .footer-corporate-2.context-dark .button-gray-31.button-ujarak:active, .footer-corporate-2.bg-gray-dark .button-gray-31.button-ujarak:active, .footer-corporate-2.bg-primary .button-gray-31.button-ujarak:active {
-	border-color: #F5C563;
+	border-color: #936205;
 }
 
 .context-dark .post-minimal-2-time, .bg-gray-dark .post-minimal-2-time, .bg-primary .post-minimal-2-time {
@@ -13484,7 +13484,7 @@ html:not(.lt-ie10) .not-animated {
 	font-size: 20px;
 	line-height: 38px;
 	color: #ffffff;
-	background: #936205;
+	background: #F5C563;
 	overflow: hidden;
 	text-align: center;
 	text-decoration: none;
@@ -13494,7 +13494,7 @@ html:not(.lt-ie10) .not-animated {
 
 .ui-to-top:hover {
 	color: #ffffff;
-	background: #111111;
+	background: #945600;
 	text-decoration: none;
 }
 
